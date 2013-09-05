@@ -1,0 +1,10 @@
+name = Views Lists - Horizontally or Vertically
+description = Display content in list which can run either Horizontally or Vertically over a numer of columns
+core = 7.x
+package = Views
+
+dependencies[] = views
+
+files[] = views_listhv_plugin_style_listhv.inc
+
+
